@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1560580763 source:c:\users\admin\desktop\myfiles\c\c primer plus\linklist\main.c
+	"list.h"
+
+1560580800 c:\users\admin\desktop\myfiles\c\c primer plus\linklist\list.h
+	<stdio.h>
+	<stdlib.h>
+	<Stdbool.h>
+
